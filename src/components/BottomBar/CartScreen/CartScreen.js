@@ -1,9 +1,9 @@
 import {StyleSheet, Text, View} from "react-native";
 
-export  const HomeScreen = () => {
+export const CartScreen = () => {
     return(
         <View style={styles.container}>
-            <Text style={styles.text}>HomeScreen</Text>
+            <Text style={styles.text}>CartScreen</Text>
         </View>
     );
 }

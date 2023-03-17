@@ -1,9 +1,9 @@
 import {StyleSheet, Text, View} from "react-native";
 
-export const ImageScreen = () => {
+export const ProfileScreen = () => {
     return(
         <View style={styles.container}>
-            <Text style={styles.text}>HomeScreen</Text>
+            <Text style={styles.text}>ProfileScreen</Text>
         </View>
     );
 }
